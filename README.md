@@ -18,29 +18,16 @@ For years I've been fascinated by CyberSecurity, and I decided to take on finish
 
 <h3>Languages</h3>
 
-<h6 style="color:#aaa">(Professional Experience)</h6>
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 
-<h6 style="color:#aaa">(Simple Projects and "Can Get By When Needed")</h6>
-
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3.svg?&logo=apple&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
-
-<br/>
-<br/>
-
 <h3>Testing</h3>
-
-<h6 style="color:#aaa">(Professional Experience)</h6>
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?logo=testing-library&logoColor=white)
@@ -48,18 +35,10 @@ For years I've been fascinated by CyberSecurity, and I decided to take on finish
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-69D3A0.svg?logo=Puppeteer&logoColor=black)
 ![Mockito](https://img.shields.io/badge/Mockito-green.svg)
 ![JUnit](https://img.shields.io/badge/JUnit-FFFFFF.svg)
-
-<h6 style="color:#aaa">(Numerous Completed Projects and Extremely High Confidence)</h6>
-
 ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?logo=Jasmine&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?logo=mocha&logoColor=white)
 
-<br/>
-<br/>
-
 <h3>Frameworks and Libraries</h3>
-
-<h6 style="color:#aaa">(Professional Experience)</h6>
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![React Query](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff)
@@ -70,11 +49,61 @@ For years I've been fascinated by CyberSecurity, and I decided to take on finish
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 
-<h6 style="color:#aaa">(Numerous Completed Projects and Extremely High Confidence)</h6>
+<h3>Databases</h3>
+
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+
+<h3>Cloud</h3>
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
+
+<h3>Build Tools, Version Control, and CI/CD</h3>
+
+![Amazon Pipelines](https://img.shields.io/badge/Pipelines-%23ee.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAABaCAYAAAA4qEECAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEwGlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSfvu78nIGlkPSdXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQnPz4KPHg6eG1wbWV0YSB4bWxuczp4PSdhZG9iZTpuczptZXRhLyc+CjxyZGY6UkRGIHhtbG5zOnJkZj0naHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyc+CgogPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9JycKICB4bWxuczpBdHRyaWI9J2h0dHA6Ly9ucy5hdHRyaWJ1dGlvbi5jb20vYWRzLzEuMC8nPgogIDxBdHRyaWI6QWRzPgogICA8cmRmOlNlcT4KICAgIDxyZGY6bGkgcmRmOnBhcnNlVHlwZT0nUmVzb3VyY2UnPgogICAgIDxBdHRyaWI6Q3JlYXRlZD4yMDI1LTAyLTEwPC9BdHRyaWI6Q3JlYXRlZD4KICAgICA8QXR0cmliOkV4dElkPjNiMGQxNWE4LTVjZWItNGI0Zi1hODhhLTQ5YmRlMmNjYjJiMjwvQXR0cmliOkV4dElkPgogICAgIDxBdHRyaWI6RmJJZD41MjUyNjU5MTQxNzk1ODA8L0F0dHJpYjpGYklkPgogICAgIDxBdHRyaWI6VG91Y2hUeXBlPjI8L0F0dHJpYjpUb3VjaFR5cGU+CiAgICA8L3JkZjpsaT4KICAgPC9yZGY6U2VxPgogIDwvQXR0cmliOkFkcz4KIDwvcmRmOkRlc2NyaXB0aW9uPgoKIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PScnCiAgeG1sbnM6ZGM9J2h0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvJz4KICA8ZGM6dGl0bGU+CiAgIDxyZGY6QWx0PgogICAgPHJkZjpsaSB4bWw6bGFuZz0neC1kZWZhdWx0Jz5BbWF6b25QaXBlbGluZXNJY29uIC0gMTwvcmRmOmxpPgogICA8L3JkZjpBbHQ+CiAgPC9kYzp0aXRsZT4KIDwvcmRmOkRlc2NyaXB0aW9uPgoKIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PScnCiAgeG1sbnM6cGRmPSdodHRwOi8vbnMuYWRvYmUuY29tL3BkZi8xLjMvJz4KICA8cGRmOkF1dGhvcj5NaXRjaCBXaW50cm93PC9wZGY6QXV0aG9yPgogPC9yZGY6RGVzY3JpcHRpb24+CgogPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9JycKICB4bWxuczp4bXA9J2h0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8nPgogIDx4bXA6Q3JlYXRvclRvb2w+Q2FudmEgKFJlbmRlcmVyKSBkb2M9REFHZXFuUHdvd3cgdXNlcj1VQUZBdXI5d1hoMCBicmFuZD1CQUZBdXBOeGJKbyB0ZW1wbGF0ZT08L3htcDpDcmVhdG9yVG9vbD4KIDwvcmRmOkRlc2NyaXB0aW9uPgo8L3JkZjpSREY+CjwveDp4bXBtZXRhPgo8P3hwYWNrZXQgZW5kPSdyJz8+kZiFewAAA9NJREFUeJzt2k1oHGUcx/Hv7Ft2s0k3m6SpaW1rLCpUEaloJfZUEal4FAUvgnjViwjeBPUqiAdPFURQexDUi6VCDhIsSAMWjVZbtWlqktKmac1L921mHg/LjkqTzGyif23394HADPvfzLPfJE8mZD3EhPdfL6BTKLQRhTai0EYU2ohCG1FoIwptJNXG7ADwBjALBIDr0I8AOAO8BHQljZfoO9rzeNA5PqcZW1o8TqXSPB76TMWPxtvheXznHOXhXSWef+UAe/cNs6W/EA3UGnWOfTsenRe7CjxyzygrtQpjk8c38hL+dc45piamo/PBkQF6B3sAqFcazEzOrvq86rLj8lTAT1/W8GuQ7/V+qC65u+Oul0mwptecozy0vZf3x59j8Jae6y9er1G6mIvOe/JdbN/dx3I1S2k+d938/4Fzju7ynztn79YMpW3NtdavwZWZ1XfV7jL070wzOJJm/PA1qktub7bgvdiouLfXu16SPfopgBdeP7hq5E5VvjXNbQ9kAWhU3BNx83GhU0APwEOP3r7pxd0wvGQ3Y9vuiDaEe+Nm40KnWweF7myii3eSXDH6ghTjZtu5vZNNUGgjCm1EoY0otBGFNqLQRhTaiEIbUWgjCm1EoY0otBGFNhIX2rUOwtCtN9eZ3CpHa4gL7bc+ydz075ta081oZSFsHS7GzSbZOn4G+PS9k5tY0g3GJfvpnZpoNA88xuJmk4R+E+DIOyc4emQy0QI6wffHasyfDfA8KGzxPoybT/TPsa5C5qtaxR8F2H9whPtGd/7tcT8I+HH2l+g8l8ly5/AIdb/B6bmz7b0CIw7HwvSV6Lw4UCRfbL4fJmgEXJ1bfasMQ7hwymfxYnPbKPR5H1Wuumfirpf0LWHFVNo7HAbu6Taec7PzUxneCn1eTjLcbrT7gUPAq0Dm4cf20D+09lsQpudnCMLoFwa7t+4g5aU4d+k3woT74D9heWGF0G+uI1fIku/NR48tXlpKcM8Ay/MhC+cDgMs0t9MPgOl1n/QXG/3urAD5d8eeZd+BXWsOfXLiC6qNWnT+5P5DZNMZPv76KI3A3+Cl23fum/PUVuoA9A2XGNozGD125vivuAS3rlMTDU5+VgU4DdzV7hr0B4sRhTai0EYU2ohCG1FoIwptRKGNKLQRhTai0EYU2ohCG1FoIwptRKGNKLQRhTai0EYU2ohCG1FoIwptRKGNKLQRhTai0EYU2ohCG1FoIwptRKGNKLQRhTai0EYU2ohCG1FoIwptRKGNKLQRhTai0EYU2ohCG1FoIwptRKGNKLQRhTai0EYU2sgfRiEpBfBOERMAAAAASUVORK5CYII=)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=000)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?logo=Gradle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
+
+<h3>Package Managers</h3>
+
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
+![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)
+![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)
+
+<h3>IDEs</h3>
+
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
+![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&logo=goland&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff)
+![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)
+
+<h3>Operating Systems</h3>
+
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
+
+<h2>Languages, Tools, and More (Project Experience)</h2>
+
+<h3>Languages</h3>
+
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
+
+<h3>Frameworks and Libraries</h3>
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?logo=mui&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101)
@@ -87,63 +116,7 @@ For years I've been fascinated by CyberSecurity, and I decided to take on finish
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?logo=javafx&logoColor=white)
 
-<h6 style="color:#aaa">(Simple Projects and "Can Get By When Needed")</h6>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
-
-<br/>
-<br/>
-
-<h3>Databases</h3>
-
-<h6 style="color:#aaa">(Professional Experience)</h6>
-
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
-
-<h6 style="color:#aaa">(Numerous Completed Projects and Extremely High Confidence)</h6>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
-
-<h6 style="color:#aaa">(Simple Projects and "Can Get By When Needed")</h6>
-
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)
-
-<br/>
-<br/>
-
-<h3>Cloud</h3>
-
-<h6 style="color:#aaa">(Professional Experience)</h6>
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
-
-<h6 style="color:#aaa">(Numerous Completed Projects and Extremely High Confidence)</h6>
-
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
-![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)
-![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff)
-![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe)
-
-<br/>
-<br/>
-
 <h3>Build Tools, Version Control, and CI/CD</h3>
-
-<h6 style="color:#aaa">(Professional Experience)</h6>
-
-![Amazon Pipelines](https://img.shields.io/badge/Pipelines-%23ee.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAABaCAYAAAA4qEECAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEwGlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSfvu78nIGlkPSdXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQnPz4KPHg6eG1wbWV0YSB4bWxuczp4PSdhZG9iZTpuczptZXRhLyc+CjxyZGY6UkRGIHhtbG5zOnJkZj0naHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyc+CgogPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9JycKICB4bWxuczpBdHRyaWI9J2h0dHA6Ly9ucy5hdHRyaWJ1dGlvbi5jb20vYWRzLzEuMC8nPgogIDxBdHRyaWI6QWRzPgogICA8cmRmOlNlcT4KICAgIDxyZGY6bGkgcmRmOnBhcnNlVHlwZT0nUmVzb3VyY2UnPgogICAgIDxBdHRyaWI6Q3JlYXRlZD4yMDI1LTAyLTEwPC9BdHRyaWI6Q3JlYXRlZD4KICAgICA8QXR0cmliOkV4dElkPjNiMGQxNWE4LTVjZWItNGI0Zi1hODhhLTQ5YmRlMmNjYjJiMjwvQXR0cmliOkV4dElkPgogICAgIDxBdHRyaWI6RmJJZD41MjUyNjU5MTQxNzk1ODA8L0F0dHJpYjpGYklkPgogICAgIDxBdHRyaWI6VG91Y2hUeXBlPjI8L0F0dHJpYjpUb3VjaFR5cGU+CiAgICA8L3JkZjpsaT4KICAgPC9yZGY6U2VxPgogIDwvQXR0cmliOkFkcz4KIDwvcmRmOkRlc2NyaXB0aW9uPgoKIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PScnCiAgeG1sbnM6ZGM9J2h0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvJz4KICA8ZGM6dGl0bGU+CiAgIDxyZGY6QWx0PgogICAgPHJkZjpsaSB4bWw6bGFuZz0neC1kZWZhdWx0Jz5BbWF6b25QaXBlbGluZXNJY29uIC0gMTwvcmRmOmxpPgogICA8L3JkZjpBbHQ+CiAgPC9kYzp0aXRsZT4KIDwvcmRmOkRlc2NyaXB0aW9uPgoKIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PScnCiAgeG1sbnM6cGRmPSdodHRwOi8vbnMuYWRvYmUuY29tL3BkZi8xLjMvJz4KICA8cGRmOkF1dGhvcj5NaXRjaCBXaW50cm93PC9wZGY6QXV0aG9yPgogPC9yZGY6RGVzY3JpcHRpb24+CgogPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9JycKICB4bWxuczp4bXA9J2h0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8nPgogIDx4bXA6Q3JlYXRvclRvb2w+Q2FudmEgKFJlbmRlcmVyKSBkb2M9REFHZXFuUHdvd3cgdXNlcj1VQUZBdXI5d1hoMCBicmFuZD1CQUZBdXBOeGJKbyB0ZW1wbGF0ZT08L3htcDpDcmVhdG9yVG9vbD4KIDwvcmRmOkRlc2NyaXB0aW9uPgo8L3JkZjpSREY+CjwveDp4bXBtZXRhPgo8P3hwYWNrZXQgZW5kPSdyJz8+kZiFewAAA9NJREFUeJzt2k1oHGUcx/Hv7Ft2s0k3m6SpaW1rLCpUEaloJfZUEal4FAUvgnjViwjeBPUqiAdPFURQexDUi6VCDhIsSAMWjVZbtWlqktKmac1L921mHg/LjkqTzGyif23394HADPvfzLPfJE8mZD3EhPdfL6BTKLQRhTai0EYU2ohCG1FoIwptJNXG7ADwBjALBIDr0I8AOAO8BHQljZfoO9rzeNA5PqcZW1o8TqXSPB76TMWPxtvheXznHOXhXSWef+UAe/cNs6W/EA3UGnWOfTsenRe7CjxyzygrtQpjk8c38hL+dc45piamo/PBkQF6B3sAqFcazEzOrvq86rLj8lTAT1/W8GuQ7/V+qC65u+Oul0mwptecozy0vZf3x59j8Jae6y9er1G6mIvOe/JdbN/dx3I1S2k+d938/4Fzju7ynztn79YMpW3NtdavwZWZ1XfV7jL070wzOJJm/PA1qktub7bgvdiouLfXu16SPfopgBdeP7hq5E5VvjXNbQ9kAWhU3BNx83GhU0APwEOP3r7pxd0wvGQ3Y9vuiDaEe+Nm40KnWweF7myii3eSXDH6ghTjZtu5vZNNUGgjCm1EoY0otBGFNqLQRhTaiEIbUWgjCm1EoY0otBGFNhIX2rUOwtCtN9eZ3CpHa4gL7bc+ydz075ta081oZSFsHS7GzSbZOn4G+PS9k5tY0g3GJfvpnZpoNA88xuJmk4R+E+DIOyc4emQy0QI6wffHasyfDfA8KGzxPoybT/TPsa5C5qtaxR8F2H9whPtGd/7tcT8I+HH2l+g8l8ly5/AIdb/B6bmz7b0CIw7HwvSV6Lw4UCRfbL4fJmgEXJ1bfasMQ7hwymfxYnPbKPR5H1Wuumfirpf0LWHFVNo7HAbu6Taec7PzUxneCn1eTjLcbrT7gUPAq0Dm4cf20D+09lsQpudnCMLoFwa7t+4g5aU4d+k3woT74D9heWGF0G+uI1fIku/NR48tXlpKcM8Ay/MhC+cDgMs0t9MPgOl1n/QXG/3urAD5d8eeZd+BXWsOfXLiC6qNWnT+5P5DZNMZPv76KI3A3+Cl23fum/PUVuoA9A2XGNozGD125vivuAS3rlMTDU5+VgU4DdzV7hr0B4sRhTai0EYU2ohCG1FoIwptRKGNKLQRhTai0EYU2ohCG1FoIwptRKGNKLQRhTai0EYU2ohCG1FoIwptRKGNKLQRhTai0EYU2ohCG1FoIwptRKGNKLQRhTai0EYU2ohCG1FoIwptRKGNKLQRhTai0EYU2ohCG1FoIwptRKGNKLQRhTai0EYU2sgfRiEpBfBOERMAAAAASUVORK5CYII=)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=000)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?logo=Gradle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
-
-<h6 style="color:#aaa">(Numerous Completed Projects and Extremely High Confidence)</h6>
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
 ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)
@@ -151,57 +124,32 @@ For years I've been fascinated by CyberSecurity, and I decided to take on finish
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)
 ![XCloud](https://img.shields.io/badge/XCloud-000000?logo=apple&logoColor=F0F0F0)
 
-<h6 style="color:#aaa">(Simple Projects and "Can Get By When Needed")</h6>
+<h3>Databases</h3>
 
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 
-<br/>
-<br/>
+<h3>Cloud</h3>
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)
+![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff)
+![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe)
 
 <h3>Package Managers</h3>
-
-<h6 style="color:#aaa">(Professional Experience)</h6>
-
-![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
-![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)
-![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)
-
-<h6 style="color:#aaa">(Simple Projects and "Can Get By When Needed")</h6>
 
 ![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=fff)
 ![SwiftPM](https://img.shields.io/badge/SwiftPM-F54A2A?logo=swift&logoColor=white)
 
-<br/>
-<br/>
-
 <h3>IDEs</h3>
 
-<h6 style="color:#aaa">(Professional Experience)</h6>
-
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff)
-![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)
-
-<h6 style="color:#aaa">(Numerous Completed Projects and Extremely High Confidence)</h6>
-
-![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&logo=goland&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?logo=android%20studio&logoColor=white)
 ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)
 
-<br/>
-<br/>
-
 <h3>Operating Systems</h3>
-
-<h6 style="color:#aaa">(Professional Experience)</h6>
-
-![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
-![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
-
-<h6 style="color:#aaa">(Numerous Completed Projects and Extremely High Confidence)</h6>
 
 ![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
@@ -209,12 +157,3 @@ For years I've been fascinated by CyberSecurity, and I decided to take on finish
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)
-
-<h2>Languages, Tools, and More (Project Experience)</h2>
-
-<h3>Languages</h3>
-
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
