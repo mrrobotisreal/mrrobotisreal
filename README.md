@@ -92,6 +92,9 @@ For years I've been fascinated by CyberSecurity, and I decided to take on finish
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 
+<br/>
+<br/>
+
 <h2>Languages, Tools, and More (Project Experience)</h2>
 
 <h3>Languages</h3>
