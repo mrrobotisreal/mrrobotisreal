@@ -2,7 +2,7 @@
 
 Hey there!
 
-I'm a **full-stack software engineer** with apprenticeship experience as a back-end engineer working with _Java_ at **VMWare**, several years of professional experience as a front-end engineer at **AWS** working with _TypeScript_, _React_, and _Python_, and numerous years of experience working on other projects (personal, academic, and professional).
+I'm a **full stack software engineer** with apprenticeship experience as a back-end engineer working with _Java_ at **VMWare**, several years of professional experience as a frontend engineer at **AWS** working with _TypeScript_, _React_, _Java_, and _Python_, 2 years of experience as a founding engineer at a startup company called **Double Raven Solutions LLC** developing and architecting the backend OSINT network for handling data extraction, data visualization, geo mapping, NLP extraction, identity resolution, and more, and numerous years of experience working on other projects (personal, academic, and professional).
 
 I've got years of hands-on experience working with cloud infrastructure, securely managing massive amounts of sensitive customer data, designing resilient and scalable systems, and building user interfaces that provide intuitive and engaging user experiences.
 
