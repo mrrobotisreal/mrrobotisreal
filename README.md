@@ -18,7 +18,7 @@ For years I've been a self-taught learner, successfully worked as a professional
 
 <h3>Voizy</h3>
 
-Voizy is a social media app currently only for Android, but will be available on iOS and online eventually as well. It is similar to Facebook, but with some of everyone's favorite features from other places like being able to customize and play theme songs on your MySpace profile, re-tweet posts and see analytics of views, comments, and shares like onX (Twitter), and get ML curated "recommended posts" like your FYP on TikTok.
+Voizy is a **social media app** currently only for **Android**, but will be available on iOS and online eventually as well. It is similar to _Facebook_, but with some of everyone's favorite features from other places like being able to **customize** and **play theme songs** on your _MySpace_ profile, **re-tweet posts** or **share posts** and see **analytics** of **views**, **comments**, and **shares** like on _X (Twitter)_, and get **ML curated "recommended posts"** like your _FYP on TikTok_. **Secure authentication** is implemented via **API Keys** and **JWTs** and all database tables are indexed and optimized for lightning fast queries.
 
 **Tech Stack**
 
@@ -34,7 +34,7 @@ Voizy is a social media app currently only for Android, but will be available on
  
 **Quick Walkthrough Demo of Voizy**
 
-[_See here for videos of the app in action!_](https://vigorous-helicona-f1e.notion.site/Voizy-Official-Documentation-1b526f695b8e80129187e9c97396e2b9)
+[_See here for videos of Voizy in action!_](https://vigorous-helicona-f1e.notion.site/Voizy-Official-Documentation-1b526f695b8e80129187e9c97396e2b9)
 
 ![Login Screen](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy33.jpg)
 ![Create Account Screen](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy34.jpg)
@@ -48,6 +48,33 @@ Voizy is a social media app currently only for Android, but will be available on
 ![About - Profile Info](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy22.jpg)
 ![Friends](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy23.jpg)
 ![Search Friends](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy24.jpg)
+
+<h3>JourneyApp.me</h3>
+
+JourneyApp.me is a **journaling app** currently only for **iOS** and **iPad**, but will be available on **Android** soon as well. It's a one of a kind journaling app that lets you write journal entries and format them with **advanced markdown**, **attach images** to your journal entries, **connect locations** to your journal entries, and even **add custom tags** to your journal entries to make them easier to filter and find later. From the home screen you can **view your journal entries** in a **Facebook-style feed** and perform lightning quick **search queries** and use **advanced filters**. Journal entries are very personal and private, so you can be sure that you're secure with **Secure Authentication** via **JWTs** and **API Keys** and your **images are all encrypted and stored on S3**.
+
+- **UI**:
+  - [_iOS:_](https://github.com/mrrobotisreal/JourneyApp_iOS) ![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
+  - _Android:_ ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
+  - _Web:_ ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) ![SvelteKit](https://img.shields.io/badge/SvelteKit-%23f1413d.svg?logo=svelte&logoColor=white)
+- **Backend**:
+  - [_Main Server:_](https://github.com/mrrobotisreal/JourneyAppServer) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
+- **Database**:
+  - _MySQL:_ ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+  - _MongoDB:_ ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+
+**Quick Walkthrough Demo of JourneyApp.me**
+
+[_See here for videos of JourneyApp.me in action!_](https://vigorous-helicona-f1e.notion.site/JourneyApp-me-Official-Documentation-18426f695b8e805ab8efc17f6634877d#18826f695b8e800fb436f7c7dfd0406d)
+
+![CreateAccount_Screen](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/journey-app/_journey1.jpg)
+![Home_Screen](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/journey-app/_journey2.jpg)
+![FilterByDate](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/journey-app/_journey3.jpg)
+![SearchEntries](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/journey-app/_journey4.jpg)
+![AppleMaps_SelectLocation](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/journey-app/_journey5.jpg)
+![CreateEntry](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/journey-app/_journey6.jpg)
+![ViewEntry](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/journey-app/_journey7.jpg)
+![EditEntry](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/journey-app/_journey9.jpg)
 
 <h2>Languages, Tools, and More (Professional Experience)</h2>
 
