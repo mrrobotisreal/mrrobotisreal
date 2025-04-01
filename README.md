@@ -1,4 +1,4 @@
-<h2>👨‍💻 <img src="https://winapps.io/WinApps_Logo_Medium.png" width="32px" height="32px" /> Full Stack Engineer | Mobile Dev Enthusiast</h2>
+<h2>👨‍💻 <img src="https://winapps.io/WinApps_Logo_Medium.png" width="32px" height="32px" /> Software Engineer </h2>
 
 Hey there!
 
