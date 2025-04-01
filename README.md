@@ -31,6 +31,23 @@ Voizy is a social media app currently only for Android, but will be available on
   - [_ML Recommendation Server:_](https://github.com/mrrobotisreal/Voizy_Recommendation_Service) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)
 - **Database**:
   - _MySQL:_ ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+ 
+**Quick Walkthrough Demo of Voizy**
+
+[_See here for videos of the app in action!_](https://vigorous-helicona-f1e.notion.site/Voizy-Official-Documentation-1b526f695b8e80129187e9c97396e2b9)
+
+![Login Screen](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy33.jpg)
+![Create Account Screen](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy34.jpg)
+![Home Screen](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy1.jpg)
+![React to Post](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy5.jpg)
+![Comment on Post](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy4.jpg)
+![Create Post Dialog](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy27.jpg)
+![Create Post Dialog](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy31.jpg)
+![Photos](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy11.jpg)
+![Add Images](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy9.jpg)
+![About - Profile Info](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy22.jpg)
+![Friends](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy23.jpg)
+![Search Friends](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy24.jpg)
 
 <h2>Languages, Tools, and More (Professional Experience)</h2>
 
