@@ -55,6 +55,8 @@ Voizy is a **social media app** currently only for **Android**, but will be avai
 
 JourneyApp.me is a **journaling app** currently only for **iOS** and **iPad**, but will be available on **Android** soon as well. It's a one of a kind journaling app that lets you write journal entries and format them with **advanced markdown**, **attach images** to your journal entries, **connect locations** to your journal entries, and even **add custom tags** to your journal entries to make them easier to filter and find later. From the home screen you can **view your journal entries** in a **Facebook-style feed** and perform lightning quick **search queries** and use **advanced filters**. Journal entries are very personal and private, so you can be sure that you're secure with **Secure Authentication** via **JWTs** and **API Keys** and your **images are all encrypted and stored on S3**.
 
+You can _download it now_ from [**here in the Apple AppStore**](https://apps.apple.com/us/app/journeyapp-me/id6741499202?platform=iphone)
+
 - **UI**:
   - [_iOS:_](https://github.com/mrrobotisreal/JourneyApp_iOS) ![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
   - _Android:_ ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
