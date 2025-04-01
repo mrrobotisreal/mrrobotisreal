@@ -1,4 +1,6 @@
-<h2>👨‍💻 <img src="https://winapps.io/WinApps_Logo_Medium.png" width="32px" height="32px" /> Software Engineer </h2>
+<h1>Mitchell Wintrow</h1>
+
+<h2>👨‍💻 <img src="https://winapps.io/WinApps_Logo_Medium.png" width="32px" height="32px" /> Introduction </h2>
 
 Hey there!
 
@@ -14,9 +16,9 @@ For years I've been a self-taught learner, successfully worked as a professional
 <!-- [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=fff)](...) -->
 <!-- [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](...) -->
 
-<h2>Have a look at some of my top projects:</h2>
+<h1>Have a look at some of my top projects:</h1>
 
-<h3>Voizy</h3>
+<h2>Voizy</h2>
 
 Voizy is a **social media app** currently only for **Android**, but will be available on iOS and online eventually as well. It is similar to _Facebook_, but with some of everyone's favorite features from other places like being able to **customize** and **play theme songs** on your _MySpace_ profile, **re-tweet posts** or **share posts** and see **analytics** of **views**, **comments**, and **shares** like on _X (Twitter)_, and get **ML curated "recommended posts"** like your _FYP on TikTok_. **Secure authentication** is implemented via **API Keys** and **JWTs** and all database tables are indexed and optimized for lightning fast queries.
 
@@ -49,7 +51,7 @@ Voizy is a **social media app** currently only for **Android**, but will be avai
 ![Friends](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy23.jpg)
 ![Search Friends](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy24.jpg)
 
-<h3>JourneyApp.me</h3>
+<h2>JourneyApp.me</h2>
 
 JourneyApp.me is a **journaling app** currently only for **iOS** and **iPad**, but will be available on **Android** soon as well. It's a one of a kind journaling app that lets you write journal entries and format them with **advanced markdown**, **attach images** to your journal entries, **connect locations** to your journal entries, and even **add custom tags** to your journal entries to make them easier to filter and find later. From the home screen you can **view your journal entries** in a **Facebook-style feed** and perform lightning quick **search queries** and use **advanced filters**. Journal entries are very personal and private, so you can be sure that you're secure with **Secure Authentication** via **JWTs** and **API Keys** and your **images are all encrypted and stored on S3**.
 
@@ -75,6 +77,8 @@ JourneyApp.me is a **journaling app** currently only for **iOS** and **iPad**, b
 ![CreateEntry](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/journey-app/_journey6.jpg)
 ![ViewEntry](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/journey-app/_journey7.jpg)
 ![EditEntry](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/journey-app/_journey9.jpg)
+
+<h1>Skills</h1>
 
 <h2>Languages, Tools, and More (Professional Experience)</h2>
 
