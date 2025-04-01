@@ -14,6 +14,24 @@ For years I've been a self-taught learner, successfully worked as a professional
 <!-- [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=fff)](...) -->
 <!-- [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](...) -->
 
+<h2>Have a look at some of my top projects:</h2>
+
+<h3>Voizy</h3>
+
+Voizy is a social media app currently only for Android, but will be available on iOS and online eventually as well. It is similar to Facebook, but with some of everyone's favorite features from other places like being able to customize and play theme songs on your MySpace profile, re-tweet posts and see analytics of views, comments, and shares like onX (Twitter), and get ML curated "recommended posts" like your FYP on TikTok.
+
+**Tech Stack**
+
+- **UI**:
+  - [_Android:_](https://github.com/mrrobotisreal/VoizyAndroid) ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
+  - _iOS:_ ![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
+  - _Web:_ ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) ![SvelteKit](https://img.shields.io/badge/SvelteKit-%23f1413d.svg?logo=svelte&logoColor=white)
+- **Backend**:
+  - _Main Server_ _[Java](https://github.com/mrrobotisreal/VoizyServerJava) [Go](https://github.com/mrrobotisreal/VoizyServer):_ ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
+  - [_ML Recommendation Server:_](https://github.com/mrrobotisreal/Voizy_Recommendation_Service) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)
+- **Database**:
+  - _MySQL:_ ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+
 <h2>Languages, Tools, and More (Professional Experience)</h2>
 
 <h3>Languages</h3>
@@ -49,7 +67,7 @@ For years I've been a self-taught learner, successfully worked as a professional
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?logo=svelte&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?logo=svelte&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-%23f1413d.svg?logo=svelte&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
