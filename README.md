@@ -108,8 +108,36 @@ You can **_download it now_** from [**here in the Apple AppStore**](https://apps
 
 Aspire To Expand is an app that provides teachers with the ability manage existing and new student data and securely accept payment for classes via Stripe and Paypal, students with the ability to choose the right teacher for their desired goals and securely pay for their classes, both teachers and students the ability to chat via instant messaging, create and share documents via Google Drive/Docs and S3, use tools such as Google Translate and ChatGPT, conduct and attend one-on-one classes with video/audio/screen sharing capabilities and fullscreen view (NOTE: support for up to 4 participants, i.e. 1 teacher and 3 students is currently being built), sending and receiving push notifications, configure and play games, and more.
 
+![LoginScreen](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireDesktop00.jpg)
+
+![StudentInfoScreen](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireDesktop001.jpg)
+
+![ConfirmStudentInfoDialog](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireDesktop002.jpg)
+
+![AddMoreLessons](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireDesktop7.jpg)
+
+![StripePayForLessons](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireDesktop8.jpg)
+
+![VideoClassCamera1](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireDesktop1.jpg)
+
+![VideoClassCamera2](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireDesktop2.jpg)
+
+![VideoClass](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireDesktop3.jpg)
+
+![InstantMessageRecordAudio](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireDesktop6.jpg)
+
+![Chatbot](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireDesktop4.jpg)
+
+![MobileLogin](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireMobile1.jpg)
+![Charts1](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireMobile2.jpg)
+![Charts2](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireMobile3.jpg)
+
+![SettingsTheme](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireMobile4.jpg)
+![SettingsProfile](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireMobile5.jpg)
+
 - **UI**:
   - [_Desktop (![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0) ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff) ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff) ![Pop!_OS](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff)):_](https://github.com/mrrobotisreal/AspireToExpandTeacherDesktop) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff)
+  - [_Mobile (![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)):_](https://github.com/mrrobotisreal/AspireToExpandMobile) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)
 - **Backend**:
   - [_Main Server:_](https://github.com/mrrobotisreal/AspireToExpandServer) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
 - **Database**:
@@ -161,6 +189,7 @@ Aspire To Expand is an app that provides teachers with the ability manage existi
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?logo=mui&logoColor=white)
