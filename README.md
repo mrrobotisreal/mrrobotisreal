@@ -8,7 +8,7 @@ My name is Mitchell Wintrow and I'm a **full stack software engineer** with appr
 
 I've got years of hands-on experience working with cloud infrastructure, securely managing massive amounts of sensitive customer data, designing resilient and scalable systems, and building user interfaces that provide intuitive and engaging user experiences.
 
-For years I've been a self-taught learner, successfully worked as a professional software engineer, all without getting a degree, but I finally decided to finish my **Bachelor's Degree (B.S.) in Computer Science** to expand my knowledge related to Machine Learning and AI.
+For years I've been a self-taught learner and worked as a professional software engineer, all without getting a degree, but I finally decided to finish my **Bachelor's Degree (B.S.) in Computer Science** to expand my knowledge related to Machine Learning and AI.
 
 **Click here to view my LinkedIn →** [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mitchell-wintrow/)
 
