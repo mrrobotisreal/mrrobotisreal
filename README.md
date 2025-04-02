@@ -131,7 +131,6 @@ Aspire To Expand is an app that provides teachers with the ability manage existi
 ![MobileLogin](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireMobile1.jpg)
 ![Charts1](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireMobile2.jpg)
 ![Charts2](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireMobile3.jpg)
-
 ![SettingsTheme](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireMobile4.jpg)
 ![SettingsProfile](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireMobile5.jpg)
 
