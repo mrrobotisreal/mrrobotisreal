@@ -19,21 +19,21 @@ For years I've been a self-taught learner and worked as a professional software 
 
 <h1>Table of Contents</h1>
 
-- [Introduction](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#introduction)
-- [Table of Contents](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#table-of-contents)
-- [Top projects](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#have-a-look-at-some-of-my-top-projects)
-  - [Voizy](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#voizy)
-  - [JourneyApp.me](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#journeyapp.me)
-- [Skills](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#skills)
-  - [Languages](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#languages)
-  - [Testing](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#testing)
-  - [Frameworks and Libraries](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#frameworks-and-libraries)
-  - [Databases](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#databases)
-  - [Cloud](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#cloud)
-  - [Build Tools, Version Control, and CI/CD](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#build-tools-version-control-and-cicd)
-  - [Package Managers](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#package-managers)
-  - [IDEs](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#ides)
-  - [Operating Systems](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#operating-systems)
+- [Introduction](https://github.com/mrrobotisreal/mrrobotisreal/blob/main/README.md#introduction)
+- [Table of Contents](https://github.com/mrrobotisreal/mrrobotisreal/blob/main/README.md#table-of-contents)
+- [Top projects](https://github.com/mrrobotisreal/mrrobotisreal/blob/main/README.md#have-a-look-at-some-of-my-top-projects)
+  - [Voizy](https://github.com/mrrobotisreal/mrrobotisreal/blob/main/README.md#voizy)
+  - [JourneyApp.me](https://github.com/mrrobotisreal/mrrobotisreal/blob/main/README.md#journeyapp.me)
+- [Skills](https://github.com/mrrobotisreal/mrrobotisreal/blob/main/README.md#skills)
+  - [Languages](https://github.com/mrrobotisreal/mrrobotisreal/blob/main/README.md#languages)
+  - [Testing](https://github.com/mrrobotisreal/mrrobotisreal/blob/main/README.md#testing)
+  - [Frameworks and Libraries](https://github.com/mrrobotisreal/mrrobotisreal/blob/main/README.md#frameworks-and-libraries)
+  - [Databases](https://github.com/mrrobotisreal/mrrobotisreal/blob/main/README.md#databases)
+  - [Cloud](https://github.com/mrrobotisreal/mrrobotisreal/blob/main/README.md#cloud)
+  - [Build Tools, Version Control, and CI/CD](https://github.com/mrrobotisreal/mrrobotisreal/blob/main/README.md#build-tools-version-control-and-cicd)
+  - [Package Managers](https://github.com/mrrobotisreal/mrrobotisreal/blob/main/README.md#package-managers)
+  - [IDEs](https://github.com/mrrobotisreal/mrrobotisreal/blob/main/README.md#ides)
+  - [Operating Systems](https://github.com/mrrobotisreal/mrrobotisreal/blob/main/README.md#operating-systems)
 
 <h1>Have a look at some of my top projects</h1>
 
@@ -70,7 +70,7 @@ Voizy is a **social media app** currently only for **Android**, but will be avai
 ![Friends](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy23.jpg)
 ![Search Friends](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy24.jpg)
 
-[_(Back to top)_](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#table-of-contents)
+[_(Back to top)_](https://github.com/mrrobotisreal/mrrobotisreal/blob/main/README.md#table-of-contents)
 
 <h2>JourneyApp.me</h2>
 
@@ -101,7 +101,7 @@ You can **_download it now_** from [**here in the Apple AppStore**](https://apps
 ![ViewEntry](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/journey-app/_journey7.jpg)
 ![EditEntry](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/journey-app/_journey9.jpg)
 
-[_(Back to top)_](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#table-of-contents)
+[_(Back to top)_](https://github.com/mrrobotisreal/mrrobotisreal/blob/main/README.md#table-of-contents)
 
 <h1>Skills</h1>
 
@@ -226,4 +226,4 @@ You can **_download it now_** from [**here in the Apple AppStore**](https://apps
 ![Pop!_OS](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)
 
-[_(Back to top)_](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#table-of-contents)
+[_(Back to top)_](https://github.com/mrrobotisreal/mrrobotisreal/blob/main/README.md#table-of-contents)
