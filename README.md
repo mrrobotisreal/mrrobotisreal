@@ -17,7 +17,25 @@ For years I've been a self-taught learner and worked as a professional software 
 <!-- [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=fff)](...) -->
 <!-- [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](...) -->
 
-<h1>Have a look at some of my top projects:</h1>
+<h1>Table of Contents</h1>
+
+- [Introduction](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#introduction)
+- [Table of Contents](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#table-of-contents)
+- [Top projects](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#have-a-look-at-some-of-my-top-projects)
+  - [Voizy](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#voizy)
+  - [JourneyApp.me](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#journeyapp.me)
+- [Skills](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#skills)
+  - [Languages](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#languages)
+  - [Testing](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#testing)
+  - [Frameworks and Libraries](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#frameworks-and-libraries)
+  - [Databases](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#databases)
+  - [Cloud](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#cloud)
+  - [Build Tools, Version Control, and CI/CD](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#build-tools-version-control-and-cicd)
+  - [Package Managers](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#package-managers)
+  - [IDEs](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#ides)
+  - [Operating Systems](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#operating-systems)
+
+<h1>Have a look at some of my top projects</h1>
 
 <h2>Voizy</h2>
 
@@ -52,6 +70,8 @@ Voizy is a **social media app** currently only for **Android**, but will be avai
 ![Friends](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy23.jpg)
 ![Search Friends](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy24.jpg)
 
+[_(Back to top)_](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#table-of-contents)
+
 <h2>JourneyApp.me</h2>
 
 JourneyApp.me is a **journaling app** currently only for **iOS** and **iPad**, but will be available on **Android** soon as well. It's a one of a kind journaling app that lets you write journal entries and format them with **advanced markdown**, **attach images** to your journal entries, **connect locations** to your journal entries, and even **add custom tags** to your journal entries to make them easier to filter and find later. From the home screen you can **view your journal entries** in a **Facebook-style feed** and perform lightning quick **search queries** and use **advanced filters**. Journal entries are very personal and private, so you can be sure that you're secure with **Secure Authentication** via **JWTs** and **API Keys** and your **images are all encrypted and stored on S3**.
@@ -81,11 +101,11 @@ You can **_download it now_** from [**here in the Apple AppStore**](https://apps
 ![ViewEntry](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/journey-app/_journey7.jpg)
 ![EditEntry](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/journey-app/_journey9.jpg)
 
+[_(Back to top)_](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#table-of-contents)
+
 <h1>Skills</h1>
 
-<h2>Languages, Tools, and More (Professional Experience)</h2>
-
-<h3>Languages</h3>
+<h2>Languages</h2>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
@@ -99,7 +119,7 @@ You can **_download it now_** from [**here in the Apple AppStore**](https://apps
 ![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
 
-<h3>Testing</h3>
+<h2>Testing</h2>
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?logo=testing-library&logoColor=white)
@@ -110,7 +130,7 @@ You can **_download it now_** from [**here in the Apple AppStore**](https://apps
 ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?logo=Jasmine&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?logo=mocha&logoColor=white)
 
-<h3>Frameworks and Libraries</h3>
+<h2>Frameworks and Libraries</h2>
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![React Query](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff)
@@ -138,7 +158,7 @@ You can **_download it now_** from [**here in the Apple AppStore**](https://apps
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?logo=javafx&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 
-<h3>Databases</h3>
+<h2>Databases</h2>
 
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
@@ -147,7 +167,7 @@ You can **_download it now_** from [**here in the Apple AppStore**](https://apps
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 
-<h3>Cloud</h3>
+<h2>Cloud</h2>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
@@ -161,7 +181,7 @@ You can **_download it now_** from [**here in the Apple AppStore**](https://apps
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe)
 
-<h3>Build Tools, Version Control, and CI/CD</h3>
+<h2>Build Tools, Version Control, and CI/CD</h2>
 
 ![Amazon Pipelines](https://img.shields.io/badge/Pipelines-%23ee.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAABaCAYAAAA4qEECAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEwGlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSfvu78nIGlkPSdXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQnPz4KPHg6eG1wbWV0YSB4bWxuczp4PSdhZG9iZTpuczptZXRhLyc+CjxyZGY6UkRGIHhtbG5zOnJkZj0naHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyc+CgogPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9JycKICB4bWxuczpBdHRyaWI9J2h0dHA6Ly9ucy5hdHRyaWJ1dGlvbi5jb20vYWRzLzEuMC8nPgogIDxBdHRyaWI6QWRzPgogICA8cmRmOlNlcT4KICAgIDxyZGY6bGkgcmRmOnBhcnNlVHlwZT0nUmVzb3VyY2UnPgogICAgIDxBdHRyaWI6Q3JlYXRlZD4yMDI1LTAyLTEwPC9BdHRyaWI6Q3JlYXRlZD4KICAgICA8QXR0cmliOkV4dElkPjNiMGQxNWE4LTVjZWItNGI0Zi1hODhhLTQ5YmRlMmNjYjJiMjwvQXR0cmliOkV4dElkPgogICAgIDxBdHRyaWI6RmJJZD41MjUyNjU5MTQxNzk1ODA8L0F0dHJpYjpGYklkPgogICAgIDxBdHRyaWI6VG91Y2hUeXBlPjI8L0F0dHJpYjpUb3VjaFR5cGU+CiAgICA8L3JkZjpsaT4KICAgPC9yZGY6U2VxPgogIDwvQXR0cmliOkFkcz4KIDwvcmRmOkRlc2NyaXB0aW9uPgoKIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PScnCiAgeG1sbnM6ZGM9J2h0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvJz4KICA8ZGM6dGl0bGU+CiAgIDxyZGY6QWx0PgogICAgPHJkZjpsaSB4bWw6bGFuZz0neC1kZWZhdWx0Jz5BbWF6b25QaXBlbGluZXNJY29uIC0gMTwvcmRmOmxpPgogICA8L3JkZjpBbHQ+CiAgPC9kYzp0aXRsZT4KIDwvcmRmOkRlc2NyaXB0aW9uPgoKIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PScnCiAgeG1sbnM6cGRmPSdodHRwOi8vbnMuYWRvYmUuY29tL3BkZi8xLjMvJz4KICA8cGRmOkF1dGhvcj5NaXRjaCBXaW50cm93PC9wZGY6QXV0aG9yPgogPC9yZGY6RGVzY3JpcHRpb24+CgogPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9JycKICB4bWxuczp4bXA9J2h0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8nPgogIDx4bXA6Q3JlYXRvclRvb2w+Q2FudmEgKFJlbmRlcmVyKSBkb2M9REFHZXFuUHdvd3cgdXNlcj1VQUZBdXI5d1hoMCBicmFuZD1CQUZBdXBOeGJKbyB0ZW1wbGF0ZT08L3htcDpDcmVhdG9yVG9vbD4KIDwvcmRmOkRlc2NyaXB0aW9uPgo8L3JkZjpSREY+CjwveDp4bXBtZXRhPgo8P3hwYWNrZXQgZW5kPSdyJz8+kZiFewAAA9NJREFUeJzt2k1oHGUcx/Hv7Ft2s0k3m6SpaW1rLCpUEaloJfZUEal4FAUvgnjViwjeBPUqiAdPFURQexDUi6VCDhIsSAMWjVZbtWlqktKmac1L921mHg/LjkqTzGyif23394HADPvfzLPfJE8mZD3EhPdfL6BTKLQRhTai0EYU2ohCG1FoIwptJNXG7ADwBjALBIDr0I8AOAO8BHQljZfoO9rzeNA5PqcZW1o8TqXSPB76TMWPxtvheXznHOXhXSWef+UAe/cNs6W/EA3UGnWOfTsenRe7CjxyzygrtQpjk8c38hL+dc45piamo/PBkQF6B3sAqFcazEzOrvq86rLj8lTAT1/W8GuQ7/V+qC65u+Oul0mwptecozy0vZf3x59j8Jae6y9er1G6mIvOe/JdbN/dx3I1S2k+d938/4Fzju7ynztn79YMpW3NtdavwZWZ1XfV7jL070wzOJJm/PA1qktub7bgvdiouLfXu16SPfopgBdeP7hq5E5VvjXNbQ9kAWhU3BNx83GhU0APwEOP3r7pxd0wvGQ3Y9vuiDaEe+Nm40KnWweF7myii3eSXDH6ghTjZtu5vZNNUGgjCm1EoY0otBGFNqLQRhTaiEIbUWgjCm1EoY0otBGFNhIX2rUOwtCtN9eZ3CpHa4gL7bc+ydz075ta081oZSFsHS7GzSbZOn4G+PS9k5tY0g3GJfvpnZpoNA88xuJmk4R+E+DIOyc4emQy0QI6wffHasyfDfA8KGzxPoybT/TPsa5C5qtaxR8F2H9whPtGd/7tcT8I+HH2l+g8l8ly5/AIdb/B6bmz7b0CIw7HwvSV6Lw4UCRfbL4fJmgEXJ1bfasMQ7hwymfxYnPbKPR5H1Wuumfirpf0LWHFVNo7HAbu6Taec7PzUxneCn1eTjLcbrT7gUPAq0Dm4cf20D+09lsQpudnCMLoFwa7t+4g5aU4d+k3woT74D9heWGF0G+uI1fIku/NR48tXlpKcM8Ay/MhC+cDgMs0t9MPgOl1n/QXG/3urAD5d8eeZd+BXWsOfXLiC6qNWnT+5P5DZNMZPv76KI3A3+Cl23fum/PUVuoA9A2XGNozGD125vivuAS3rlMTDU5+VgU4DdzV7hr0B4sRhTai0EYU2ohCG1FoIwptRKGNKLQRhTai0EYU2ohCG1FoIwptRKGNKLQRhTai0EYU2ohCG1FoIwptRKGNKLQRhTai0EYU2ohCG1FoIwptRKGNKLQRhTai0EYU2ohCG1FoIwptRKGNKLQRhTai0EYU2ohCG1FoIwptRKGNKLQRhTai0EYU2sgfRiEpBfBOERMAAAAASUVORK5CYII=)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black)
@@ -174,7 +194,7 @@ You can **_download it now_** from [**here in the Apple AppStore**](https://apps
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)
 ![XCloud](https://img.shields.io/badge/XCloud-000000?logo=apple&logoColor=F0F0F0)
 
-<h3>Package Managers</h3>
+<h2>Package Managers</h2>
 
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
 ![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)
@@ -182,7 +202,7 @@ You can **_download it now_** from [**here in the Apple AppStore**](https://apps
 ![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=fff)
 ![SwiftPM](https://img.shields.io/badge/SwiftPM-F54A2A?logo=swift&logoColor=white)
 
-<h3>IDEs</h3>
+<h2>IDEs</h2>
 
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
@@ -194,7 +214,7 @@ You can **_download it now_** from [**here in the Apple AppStore**](https://apps
 ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)
 
-<h3>Operating Systems</h3>
+<h2>Operating Systems</h2>
 
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
@@ -206,3 +226,4 @@ You can **_download it now_** from [**here in the Apple AppStore**](https://apps
 ![Pop!_OS](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)
 
+[_(Back to top)_](https://github.com/mrrobotisreal/mrrobotisreal/edit/main/README.md#table-of-contents)
