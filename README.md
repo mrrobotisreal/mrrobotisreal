@@ -1,6 +1,6 @@
 <h1>👨‍💻 <img src="https://winapps.io/WinApps_Logo_Medium.png" width="32px" height="32px" /> Introduction </h1>
 
-![Mitchell Wintrow Profile Pic]([https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/mitchProfilePic.png](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/LinkedIn_ProfilePic.png))
+![Mitchell Wintrow Profile Pic](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/LinkedIn_ProfilePic.jpg)
 
 Hey there!
 
