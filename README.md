@@ -1,5 +1,7 @@
 <h1>👨‍💻 <img src="https://winapps.io/WinApps_Logo_Medium.png" width="32px" height="32px" /> Introduction </h1>
 
+![Mitchell Wintrow Profile Pic]([https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/mitchProfilePic.png](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/LinkedIn_ProfilePic.png))
+
 Hey there!
 
 My name is Mitchell Wintrow and I'm a **full stack software engineer** with apprenticeship experience as a back-end engineer working with _Java_ at **VMWare**, several years of professional experience as a frontend engineer at **AWS** working with _TypeScript_, _React_, _Java_, and _Python_, 2 years of experience as a founding engineer at a startup company called **Double Raven Solutions LLC** developing and architecting the backend OSINT network for handling data extraction, data visualization, geo mapping, NLP extraction, identity resolution, and the UI for tools and data visualization, and numerous years of experience working on other projects (personal, academic, and professional).
