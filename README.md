@@ -150,6 +150,30 @@ _3. Search & Filters_, _4. View & Edit_
 
 Aspire To Expand is an app that provides teachers with the ability manage existing and new student data and securely accept payment for classes via Stripe and Paypal, students with the ability to choose the right teacher for their desired goals and securely pay for their classes, both teachers and students the ability to chat via instant messaging, create and share documents via Google Drive/Docs and S3, use tools such as Google Translate and ChatGPT, conduct and attend one-on-one classes with video/audio/screen sharing capabilities and fullscreen view (NOTE: support for up to 4 participants, i.e. 1 teacher and 3 students is currently being built), sending and receiving push notifications, configure and play games, and more.
 
+_1. Video Conferencing for Classes_
+
+![1_videoClass](https://github.com/user-attachments/assets/f8a81d0c-cfac-4425-8ee2-53545bbffdae)
+
+_2. Login Screen_
+
+![2_login](https://github.com/user-attachments/assets/b5c5f9fb-840c-48de-bea2-8f24f88b6a82)
+
+_3. Instant Messaging (sending Images)_
+
+![3_chat_addImage](https://github.com/user-attachments/assets/2a0053ee-c6a8-4dae-a3c2-c91591b44fbd)
+
+_4. Instant Messaging (sending Voice Notes)_
+
+![4_chat_addAudio](https://github.com/user-attachments/assets/788b13a8-93a5-4d69-90be-8b0a5da022fa)
+
+_5. Buy Lessons (via Stripe)_
+
+![5_buyLessons](https://github.com/user-attachments/assets/121727c3-cf20-4dd1-83a7-83e9d8cbb8aa)
+
+_6. "Abby" The Chatbot (GPT-4o-mini integration)_
+
+![6_abbyChatbot](https://github.com/user-attachments/assets/2d33d3c1-aff2-45c4-bd35-691f68800ceb)
+
 ![LoginScreen](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireDesktop00.jpg)
 
 ![StudentInfoScreen](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireDesktop001.jpg)
