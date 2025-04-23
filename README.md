@@ -62,7 +62,17 @@ Voizy is a **social media app** currently only for **Android**, but will be avai
  
 **Quick Walkthrough Demo of Voizy**
 
-[_See here for videos of Voizy in action!_](https://vigorous-helicona-f1e.notion.site/Voizy-Official-Documentation-1b526f695b8e80129187e9c97396e2b9)
+_1. Home Screen (Recommended Posts) & Feeds Screen_, _2. Groups Screen & People Screen_
+
+![fastXS_Demo1_HomeAndFeeds](https://github.com/user-attachments/assets/e7a6065e-8382-4dfa-bf99-ec2fea9cb593)
+![fastXS_Demo2_GroupsAndPeople](https://github.com/user-attachments/assets/c1d81bfb-f6a4-4504-9b27-b7ef226ef56a)
+
+_1. Profile Screen_, _2. App & Profile Preferences_, _3. Create a Post_
+
+![fastXS_Demo3_Profile](https://github.com/user-attachments/assets/9f38eea7-d859-4e65-9398-34f697159a35)
+![fastXS_Demo4_Preferences](https://github.com/user-attachments/assets/36d31f80-2a43-4c1a-93a8-2a94d300f342)
+![fastXS_Demo5_CreatePost](https://github.com/user-attachments/assets/db02f457-c36a-47e8-9854-973402aed81e)
+
 
 ![Login Screen](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy33.jpg)
 ![Create Account Screen](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy34.jpg)
@@ -99,7 +109,31 @@ You can **_download it now_** from [**here in the Apple AppStore**](https://apps
 
 **Quick Walkthrough Demo of JourneyApp.me**
 
-[_See here for videos of JourneyApp.me in action!_](https://vigorous-helicona-f1e.notion.site/JourneyApp-me-Official-Documentation-18426f695b8e805ab8efc17f6634877d#18826f695b8e800fb436f7c7dfd0406d)
+[_See here for the JourneyApp.me Documentation page!_](https://vigorous-helicona-f1e.notion.site/JourneyApp-me-Official-Documentation-18426f695b8e805ab8efc17f6634877d#18826f695b8e800fb436f7c7dfd0406d)
+
+**(iPad)**
+
+_1. Login Screen_, _2. Create New Entry_
+
+![1xs_iPad_LoginScreen](https://github.com/user-attachments/assets/9257cd9a-2d43-47e6-a78e-0f11f4caf592)
+![2xs_iPad_CreateNewEntry](https://github.com/user-attachments/assets/6503e18c-f812-4475-9d61-d2e1369d40d6)
+
+_3. Search & Filters_, _4. View & Edit_
+
+![3xs_iPad_SearchAndFilters](https://github.com/user-attachments/assets/c91bcbe3-db8a-4c5e-bf07-a493c5f00584)
+![4xs_iPad_ViewAndEdit](https://github.com/user-attachments/assets/4dab2c47-7e72-4587-bfc7-d5b41e4844ce)
+
+**(iPhone)**
+
+_1. Login Screen_, _2. Create New Entry_
+
+![1_iPhone_LoginScreen](https://github.com/user-attachments/assets/8d1b01ea-b72f-4f7d-bec4-085b50d90221)
+![2_iPhone_CreateNewEntry](https://github.com/user-attachments/assets/59297bc5-7edb-4ead-9c54-c2114c12bea2)
+
+_3. Search & Filters_, _4. View & Edit_
+
+![3_iPhone_SearchAndFilters](https://github.com/user-attachments/assets/dac3eec7-81f4-4830-b53e-889cb553d2c0)
+![4_iPhone_ViewAndEdit](https://github.com/user-attachments/assets/420f2c6f-d0d0-4c70-b0f7-81644d173aaf)
 
 ![CreateAccount_Screen](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/journey-app/_journey1.jpg)
 ![Home_Screen](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/journey-app/_journey2.jpg)
