@@ -1,6 +1,8 @@
 <h1>👨‍💻 <img src="https://winapps.io/WinApps_Logo_Medium.png" width="32px" height="32px" /> Introduction </h1>
 
-<video src="https://github.com/user-attachments/assets/ff7ede67-6d96-4008-9554-afdcb9f19127" width="960" height="540"></video>
+<video src="https://github.com/user-attachments/assets/ff7ede67-6d96-4008-9554-afdcb9f19127" width="960" height="540" controls>
+  Your browser does not support the video tag, check out my intro video <a href="#">here</a>
+</video>
 
 <!-- ![Mitchell Wintrow Profile Pic](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/LinkedIn_ProfilePic.jpg) -->
 
