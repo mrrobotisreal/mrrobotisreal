@@ -78,7 +78,7 @@ _1. Profile Screen_, _2. App & Profile Preferences_, _3. Create a Post_
 ![fastXS_Demo5_CreatePost](https://github.com/user-attachments/assets/db02f457-c36a-47e8-9854-973402aed81e)
 
 
-![Login Screen](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy33.jpg)
+<!--![Login Screen](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy33.jpg)
 ![Create Account Screen](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy34.jpg)
 ![Home Screen](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy1.jpg)
 ![React to Post](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy5.jpg)
@@ -89,7 +89,7 @@ _1. Profile Screen_, _2. App & Profile Preferences_, _3. Create a Post_
 ![Add Images](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy9.jpg)
 ![About - Profile Info](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy22.jpg)
 ![Friends](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy23.jpg)
-![Search Friends](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy24.jpg)
+![Search Friends](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/portfolio/voizy/demos/main_profile/readme/voizy24.jpg)-->
 
 [_(Back to top)_](https://github.com/mrrobotisreal#table-of-contents)
 
@@ -139,14 +139,14 @@ _3. Search & Filters_, _4. View & Edit_
 ![3_iPhone_SearchAndFilters](https://github.com/user-attachments/assets/dac3eec7-81f4-4830-b53e-889cb553d2c0)
 ![4_iPhone_ViewAndEdit](https://github.com/user-attachments/assets/420f2c6f-d0d0-4c70-b0f7-81644d173aaf)
 
-![CreateAccount_Screen](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/journey-app/_journey1.jpg)
+<!--![CreateAccount_Screen](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/journey-app/_journey1.jpg)
 ![Home_Screen](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/journey-app/_journey2.jpg)
 ![FilterByDate](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/journey-app/_journey3.jpg)
 ![SearchEntries](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/journey-app/_journey4.jpg)
 ![AppleMaps_SelectLocation](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/journey-app/_journey5.jpg)
 ![CreateEntry](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/journey-app/_journey6.jpg)
 ![ViewEntry](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/journey-app/_journey7.jpg)
-![EditEntry](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/journey-app/_journey9.jpg)
+![EditEntry](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/journey-app/_journey9.jpg)-->
 
 [_(Back to top)_](https://github.com/mrrobotisreal#table-of-contents)
 
@@ -178,7 +178,7 @@ _6. "Abby" The Chatbot (GPT-4o-mini integration)_
 
 ![6_abbyChatbot](https://github.com/user-attachments/assets/2d33d3c1-aff2-45c4-bd35-691f68800ceb)
 
-![LoginScreen](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireDesktop00.jpg)
+<!--![LoginScreen](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireDesktop00.jpg)
 
 ![StudentInfoScreen](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireDesktop001.jpg)
 
@@ -196,7 +196,7 @@ _6. "Abby" The Chatbot (GPT-4o-mini integration)_
 
 ![InstantMessageRecordAudio](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireDesktop6.jpg)
 
-![Chatbot](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireDesktop4.jpg)
+![Chatbot](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireDesktop4.jpg)-->
 
 ![MobileLogin](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireMobile1.jpg)
 ![Charts1](https://winapps-solutions-llc.s3.us-west-2.amazonaws.com/aspire-with-alina/demos/aspireMobile2.jpg)
