@@ -46,7 +46,7 @@ For years I've been a self-taught learner and worked as a professional software 
 
 <h1>Have a look at some of my top projects</h1>
 
-<h2>Voizy</h2>
+<h2>Voizy (Social Media App for Android)</h2>
 
 Voizy is a **social media app** currently only for **Android**, but will be available on iOS and online eventually as well. It is similar to _Facebook_, but with some of everyone's favorite features from other places like being able to **customize** and **play theme songs** on your _MySpace_ profile, **re-tweet posts** or **share posts** and see **analytics** of **views**, **comments**, and **shares** like on _X (Twitter)_, and get **ML curated "recommended posts"** like your _FYP on TikTok_. **Secure authentication** is implemented via **API Keys** and **JWTs** and all database tables are indexed and optimized for lightning fast queries.
 
@@ -93,7 +93,7 @@ _1. Profile Screen_, _2. App & Profile Preferences_, _3. Create a Post_
 
 [_(Back to top)_](https://github.com/mrrobotisreal#table-of-contents)
 
-<h2>JourneyApp.me</h2>
+<h2>JourneyApp.me (Journaling App for iOS)</h2>
 
 JourneyApp.me is a **journaling app** currently only for **iOS** and **iPad**, but will be available on **Android** soon as well. It's a one of a kind journaling app that lets you write journal entries and format them with **advanced markdown**, **attach images** to your journal entries, **connect locations** to your journal entries, and even **add custom tags** to your journal entries to make them easier to filter and find later. From the home screen you can **view your journal entries** in a **Facebook-style feed** and perform lightning quick **search queries** and use **advanced filters**. Journal entries are very personal and private, so you can be sure that you're secure with **Secure Authentication** via **JWTs** and **API Keys** and your **images are all encrypted and stored on S3**.
 
@@ -150,7 +150,7 @@ _3. Search & Filters_, _4. View & Edit_
 
 [_(Back to top)_](https://github.com/mrrobotisreal#table-of-contents)
 
-<h2>Aspire To Expand</h2>
+<h2>Aspire To Expand (Educational Learning Platform for Desktop, Web, and iOS/Android)</h2>
 
 Aspire To Expand is an app that provides teachers with the ability manage existing and new student data and securely accept payment for classes via Stripe and Paypal, students with the ability to choose the right teacher for their desired goals and securely pay for their classes, both teachers and students the ability to chat via instant messaging, create and share documents via Google Drive/Docs and S3, use tools such as Google Translate and ChatGPT, conduct and attend one-on-one classes with video/audio/screen sharing capabilities and fullscreen view (NOTE: support for up to 4 participants, i.e. 1 teacher and 3 students is currently being built), sending and receiving push notifications, configure and play games, and more.
 
