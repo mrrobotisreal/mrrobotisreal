@@ -57,7 +57,7 @@ For years I've been a self-taught learner and worked as a professional software 
 
 Why Russian? I've been learning both Russian and Ukrainian since late 2019 because my fiancée is Ukrainian and Ukrainians speak both Russian and Ukrainian fluently, as most business is still done in Russian there; combine that with the fact that there are many more use cases for Russian I decided to continue focusing on Russian first until I'm fluent in it.
 
-<h3>Why build **Сумрак**, a completely customized app from scratch, rather than just use Duolingo or something like that?</h3>
+<h3>Why build Сумрак, a completely customized app from scratch, rather than just use Duolingo or something like that?</h3>
 
 Great question! I actually do still use Duolingo primarily just for exposure to new vocabulary words, but one of the major problems with language learning apps is their content, and to be frank, there isn't much good content in Russian in the first place (in my opinion, according to my tastes). Beyond that, there's also usually a major lack of effort in Russian in those language learning apps anyway because it's not as common as say Spanish, French, German, etc., all of which already have ungodly amounts of content and lessons and usually receive most of the technical effort and content development effort.
 
