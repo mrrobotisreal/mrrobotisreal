@@ -96,6 +96,8 @@ https://github.com/user-attachments/assets/ce77116f-d74f-4c5d-b6e5-5b0778d0054f
 
 **Сегодня Review and Quest Demo**
 
+https://github.com/user-attachments/assets/c8063542-2cb2-4ace-9601-848f3fe1ba00
+
 <img width="222" height="480" alt="Review" src="https://github.com/user-attachments/assets/90c835dc-e246-431f-936e-75b2779066f6" />
 
 **LOTS of screenshots, and they still don't even come close to showing everything**
