@@ -86,7 +86,77 @@ So I decided to take advantage of my three Claude Max subscriptions (🙈 yes I 
  
 **Quick Walkthrough Demo of Сумрак**
 
-_Coming soon..._
+**READING Demo**
+
+https://github.com/user-attachments/assets/87cac5a1-2780-491d-9c55-d5950ab49fb4
+
+**BANK Speaking Exercise Demo**
+
+https://github.com/user-attachments/assets/ce77116f-d74f-4c5d-b6e5-5b0778d0054f
+
+**Сегодня Review and Quest Demo**
+
+<img width="222" height="480" alt="Review" src="https://github.com/user-attachments/assets/90c835dc-e246-431f-936e-75b2779066f6" />
+
+**LOTS of screenshots, and they still don't even come close to showing everything**
+
+<img width="277" height="540" alt="Screenshot_001_540" src="https://github.com/user-attachments/assets/5b7443e8-1ba6-41ad-91c8-7c6d0cf1fae9" />
+<img width="277" height="540" alt="Screenshot_002_540" src="https://github.com/user-attachments/assets/dce5bbb8-8a8e-4bd0-9c17-d7918e47a40a" />
+<img width="277" height="540" alt="Screenshot_003_540" src="https://github.com/user-attachments/assets/792bbd69-5174-454e-8ddd-4639cbd9e7f7" />
+<img width="277" height="540" alt="Screenshot_004_540" src="https://github.com/user-attachments/assets/cf6076a1-b8cf-40aa-8848-223aa195be1c" />
+<img width="277" height="540" alt="Screenshot_005_540" src="https://github.com/user-attachments/assets/be9a7270-ca88-4029-a4ea-aedea9b2b6ec" />
+<img width="277" height="540" alt="Screenshot_006_540" src="https://github.com/user-attachments/assets/faba0caf-ad46-469b-b381-c6296f9786d0" />
+<img width="277" height="540" alt="Screenshot_007_540" src="https://github.com/user-attachments/assets/415f2ebb-2493-47e7-8344-08a4bbe2ae17" />
+<img width="277" height="540" alt="Screenshot_008_540" src="https://github.com/user-attachments/assets/b1659631-5df7-465a-ab75-1c83e71c8176" />
+<img width="277" height="540" alt="Screenshot_009_540" src="https://github.com/user-attachments/assets/52c8f388-3724-4581-9a86-9e4d37d62e2d" />
+<img width="277" height="540" alt="Screenshot_010_540" src="https://github.com/user-attachments/assets/8a574995-3e0d-430a-b8bd-c0581d9177fc" />
+<img width="277" height="540" alt="Screenshot_011_540" src="https://github.com/user-attachments/assets/2a736b86-c4a9-4eca-b03f-90ed7efd8bff" />
+<img width="277" height="540" alt="Screenshot_012_540" src="https://github.com/user-attachments/assets/2841aa36-3ec2-4171-9141-8f0710358556" />
+<img width="277" height="540" alt="Screenshot_013_540" src="https://github.com/user-attachments/assets/2110beeb-5e77-4d29-823d-c0b7e535893a" />
+<img width="277" height="540" alt="Screenshot_014_540" src="https://github.com/user-attachments/assets/c5c5912a-bbb6-4ef1-96ba-70d33c5bb851" />
+<img width="277" height="540" alt="Screenshot_015_540" src="https://github.com/user-attachments/assets/13a059fd-72b8-4894-8883-4571717fbf17" />
+<img width="277" height="540" alt="Screenshot_016_540" src="https://github.com/user-attachments/assets/e304c18c-df2c-4831-ae72-8c13ba870601" />
+<img width="277" height="540" alt="Screenshot_017_540" src="https://github.com/user-attachments/assets/09f9cba3-2b03-4e6a-9a2a-f7be42a717f8" />
+<img width="277" height="540" alt="Screenshot_018_540" src="https://github.com/user-attachments/assets/793477be-e8f7-4481-92b2-7424254d6c59" />
+<img width="277" height="540" alt="Screenshot_019_540" src="https://github.com/user-attachments/assets/c298575d-badb-408b-85f4-31356204ec57" />
+<img width="277" height="540" alt="Screenshot_020_540" src="https://github.com/user-attachments/assets/33a7b42e-cf72-47c8-887c-96019088e794" />
+<img width="277" height="540" alt="Screenshot_021_540" src="https://github.com/user-attachments/assets/1be6123a-283d-4dac-bb84-4d4de4119053" />
+<img width="277" height="540" alt="Screenshot_022_540" src="https://github.com/user-attachments/assets/a81ed66a-21b7-42e3-b599-c3ad13302bb4" />
+<img width="277" height="540" alt="Screenshot_023_540" src="https://github.com/user-attachments/assets/dd24ba3c-ccc6-4471-8930-072096fb18f3" />
+<img width="277" height="540" alt="Screenshot_024_540" src="https://github.com/user-attachments/assets/50fbbd04-7500-405b-a6bd-17093c4b37e6" />
+<img width="277" height="540" alt="Screenshot_025_540" src="https://github.com/user-attachments/assets/ab258a8a-b808-4d88-940f-357e10b147ba" />
+<img width="277" height="540" alt="Screenshot_026_540" src="https://github.com/user-attachments/assets/8bddb0bf-98a9-4877-9d95-e318a21b156e" />
+<img width="277" height="540" alt="Screenshot_027_540" src="https://github.com/user-attachments/assets/0c4d5ed7-4f88-4511-a2cc-ed606bfd8e9d" />
+<img width="277" height="540" alt="Screenshot_028_540" src="https://github.com/user-attachments/assets/025bfb76-0869-4e0e-80b0-04b27a496798" />
+<img width="277" height="540" alt="Screenshot_029_540" src="https://github.com/user-attachments/assets/ca149295-d111-4c7c-9537-e42edb89dec4" />
+<img width="277" height="540" alt="Screenshot_030_540" src="https://github.com/user-attachments/assets/ce1d4b1e-48b8-4503-aa6a-462effa3fc38" />
+<img width="277" height="540" alt="Screenshot_031_540" src="https://github.com/user-attachments/assets/383a92ad-62f6-4a25-8012-4edeb934ddfd" />
+<img width="277" height="540" alt="Screenshot_032_540" src="https://github.com/user-attachments/assets/9667bc66-9070-4396-9470-1cfbadb31b53" />
+<img width="277" height="540" alt="Screenshot_033_540" src="https://github.com/user-attachments/assets/51ce426f-91af-4f51-bcae-7c745ef92da5" />
+<img width="277" height="540" alt="Screenshot_034_540" src="https://github.com/user-attachments/assets/b1045263-5cf0-4ba2-a09c-994c0eac7964" />
+<img width="277" height="540" alt="Screenshot_035_540" src="https://github.com/user-attachments/assets/11c7c9ad-dacb-4045-8f81-3091c704365b" />
+<img width="277" height="540" alt="Screenshot_036_540" src="https://github.com/user-attachments/assets/0b951601-6665-4dfb-a791-0e1dc679cd58" />
+<img width="277" height="540" alt="Screenshot_037_540" src="https://github.com/user-attachments/assets/fd1472bd-19ca-4951-9c35-a61ed3e19485" />
+<img width="277" height="540" alt="Screenshot_038_540" src="https://github.com/user-attachments/assets/9f694664-b746-4abf-9177-0de6e15db3a8" />
+<img width="277" height="540" alt="Screenshot_039_540" src="https://github.com/user-attachments/assets/beeeadf3-410f-4dff-8d4a-e7282b6023fe" />
+<img width="277" height="540" alt="Screenshot_040_540" src="https://github.com/user-attachments/assets/05cdd09a-09e6-402b-afbf-305868403f7e" />
+<img width="277" height="540" alt="Screenshot_041_540" src="https://github.com/user-attachments/assets/9e1786f5-55bf-4cca-8dc5-0bdcd6b42b42" />
+<img width="277" height="540" alt="Screenshot_042_540" src="https://github.com/user-attachments/assets/7a96b97e-3349-4a4a-8425-888522a283f1" />
+<img width="277" height="540" alt="Screenshot_043_540" src="https://github.com/user-attachments/assets/dcc81fd2-eaa0-49e0-905b-0368663b87ec" />
+<img width="277" height="540" alt="Screenshot_044_540" src="https://github.com/user-attachments/assets/d03aaed7-d0b0-4367-8fe0-6691dc6153d8" />
+<img width="277" height="540" alt="Screenshot_045_540" src="https://github.com/user-attachments/assets/e6d40969-082d-4c78-a260-983fad1c279f" />
+<img width="277" height="540" alt="Screenshot_046_540" src="https://github.com/user-attachments/assets/905a38e8-9a91-4436-aa4b-fa6080ea38aa" />
+<img width="277" height="540" alt="Screenshot_047_540" src="https://github.com/user-attachments/assets/a315ac6d-e182-46a2-9647-2c2bc037d2b3" />
+<img width="277" height="540" alt="Screenshot_048_540" src="https://github.com/user-attachments/assets/89fc4e43-1470-4b3f-bae1-28f52c894b43" />
+<img width="277" height="540" alt="Screenshot_049_540" src="https://github.com/user-attachments/assets/e8a3428f-bf63-4cde-8e61-317113575a28" />
+<img width="277" height="540" alt="Screenshot_050_540" src="https://github.com/user-attachments/assets/98e3f6ea-1060-439b-9619-d22dc1a370bf" />
+<img width="277" height="540" alt="Screenshot_051_540" src="https://github.com/user-attachments/assets/4aaf4cf8-9d80-441f-a6d0-ce73b62213ba" />
+<img width="277" height="540" alt="Screenshot_052_540" src="https://github.com/user-attachments/assets/a972ff3a-8dd0-41e4-9701-f5a3b377c15b" />
+<img width="277" height="540" alt="Screenshot_053_540" src="https://github.com/user-attachments/assets/d14ce60d-20a6-4fa7-80ee-a6792966e340" />
+<img width="277" height="540" alt="Screenshot_054_540" src="https://github.com/user-attachments/assets/ca098d2f-b073-4ba7-8059-f1750bc77448" />
+<img width="277" height="540" alt="Screenshot_055_540" src="https://github.com/user-attachments/assets/445195ab-ba5e-4d6c-9fe5-482b94b94953" />
+<img width="500" height="540" alt="Screenshot_Widget_540" src="https://github.com/user-attachments/assets/e57c6445-772b-4e5c-a699-9cd039ce6385" />
+
 
 <h2>Voizy (Social Media App for Android)</h2>
 
